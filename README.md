@@ -13,7 +13,7 @@ I'm a huge [fantasy RPG](https://www.baldursgate.com/) (swords/armor/magic/etc s
 
 ❓ How did you get into coding?
 
-Before my family household had internet (early 00s), I would use the [Corel](https://www.corel.com/en/all-products/) suite to make silly presentations. We eventually got internet and I used [Geocities](https://www.howtogeek.com/692445/remembering-geocities-the-1990s-precursor-to-social-media/) to put them on a website, and built more websites on random things for fun and I eventually got into customizing my MySpace and LiveJournal. I didn't see coding as a career until my second year in [undergrad](https://erau.edu/degrees/bachelor/software-engineering), and then I switched majors to Software Engineering. I started my career as an intern with writing in ASP.NET, VB.NET, and Cold Fusion, then moved to C# and ASP.NET MVC, where I was introduced to jQuery which was how I was introduced to JavaScript. 
+Before my family household had internet (early 00s), I would use the [Corel](https://www.corel.com/en/all-products/) suite to make silly presentations. We eventually got internet and I used [Geocities](https://www.howtogeek.com/692445/remembering-geocities-the-1990s-precursor-to-social-media/) to put them on a website, and built more websites on random things for fun and I eventually got into customizing my MySpace and LiveJournal. I didn't see coding as a career until my second year in [undergrad](https://erau.edu/degrees/bachelor/software-engineering), and then I switched majors to Software Engineering. I started my career as an intern writing in ASP.NET Web Forms + VB.NET, and Cold Fusion, then moved to C# and ASP.NET MVC, where I was introduced to JavaScript via jQuery.
 
 ❓ I have another question, where can I ask?
 
