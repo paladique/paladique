@@ -9,7 +9,7 @@ Hello! Welcome to my GitHub. I'm a NYC (Brooklyn!) based developer working in de
 
 ❓ Where's your handle from? 
 
-I'm a huge [fantasy RPG](https://www.baldursgate.com/) (swords/armor/magic/etc stuff) video game fan, my handle is a play on the "paladin", which is a kind of knight that generally fights evil and a class I usually will play or pick when gaming. Most paladins are [Lawful Good](https://www.gamersdecide.com/articles/dnd-alignments-explained), but personally, I'd say I'm Chaotic Good.
+I'm a huge [fantasy RPG](https://www.baldursgate.com/) (swords/armor/magic/etc stuff) video game fan, my handle is a play on the "paladin", which is a kind of knight that generally fights evil and a class I usually pick when gaming. Most paladins are [Lawful Good](https://www.gamersdecide.com/articles/dnd-alignments-explained), but personally, I'd say I'm Chaotic Good.
 
 ❓ How did you get into coding?
 
