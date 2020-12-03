@@ -2,10 +2,8 @@
 
 Hello! Welcome to my GitHub. I'm a NYC (Brooklyn!) based developer working in developer relations. I also teach web development as a part time lecturer. Most of my work is focused on beginners and students, but I also enjoy building samples of all levels! Most of my work has been built with .NET and/or JavaScript. Outside of my work, I like to dabble - currently, I'm spending a lot of time learning Python and data science.
 
-[Twitter](https://twitter.com/paladique)
-
+[Twitter](https://twitter.com/paladique) || 
 [LinkedIn](https://www.linkedin.com/in/jasminegreenaway/)
-
 
 ### FAQ
 
